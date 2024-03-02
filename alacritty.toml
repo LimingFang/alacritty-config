@@ -1,0 +1,16 @@
+import = [
+"~/.config/alacritty/alacritty-theme/themes/doom_one.toml",
+]
+
+[shell]
+program = "/bin/zsh"
+args = ["-l"]
+
+[font]
+normal.family = "FiraCode Nerd Font"
+normal.style = "Regular"
+size = 14
+
+[window]
+option_as_alt = "OnlyLeft"
+decorations_theme_variant = "Light"
